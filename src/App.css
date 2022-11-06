@@ -14,7 +14,7 @@
   background: #2c2c2c;
 }
  .Counter{
-  height: 80vh;
+  min-height: 80vh;
   width: 70vh;
   background: #2c2c2c;
   border-radius: 15px;
@@ -76,7 +76,7 @@ main{
   background: #2c2c2c;
 }
 .four0fourpage{
-  height: 80vh;
+  min-height: 80vh;
   width: 70vh;
   text-align: center;
   background: #2c2c2c;
